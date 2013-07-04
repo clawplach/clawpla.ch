@@ -35,9 +35,7 @@
     <maven>3.0.4</maven>
   </prerequisites>
 
-  <modules>
-    <module>commons</module>
-  </modules>
+  <modules></modules>
 
   <scm>
     <connection>scm:git:https://github.com/clawplach/clawpla.ch.git</connection>
