@@ -15,9 +15,7 @@
   <licenses>
     <license>
       <name>BSD 3-Clause</name>
-      <url>http://opensource.org/licenses/BSD-3-Clause</url>
-      <distribution>repo</distribution>
-      <comments>Source Code</comments>
+      <comments>Software Only - see LICENSE file for details</comments>
     </license>
   </licenses>
 
@@ -38,6 +36,7 @@
   </prerequisites>
 
   <modules>
+    <module>commons</module>
   </modules>
 
   <scm>
